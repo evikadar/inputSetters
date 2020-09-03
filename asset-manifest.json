@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/inputSetters/static/css/main.5f361e03.chunk.css",
+    "main.js": "/inputSetters/static/js/main.c1476f80.chunk.js",
+    "main.js.map": "/inputSetters/static/js/main.c1476f80.chunk.js.map",
+    "runtime-main.js": "/inputSetters/static/js/runtime-main.4ecd7c63.js",
+    "runtime-main.js.map": "/inputSetters/static/js/runtime-main.4ecd7c63.js.map",
+    "static/js/2.40d2f3af.chunk.js": "/inputSetters/static/js/2.40d2f3af.chunk.js",
+    "static/js/2.40d2f3af.chunk.js.map": "/inputSetters/static/js/2.40d2f3af.chunk.js.map",
+    "index.html": "/inputSetters/index.html",
+    "precache-manifest.9a48420396d95efd176480fc57e75f7f.js": "/inputSetters/precache-manifest.9a48420396d95efd176480fc57e75f7f.js",
+    "service-worker.js": "/inputSetters/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/inputSetters/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.40d2f3af.chunk.js.LICENSE.txt": "/inputSetters/static/js/2.40d2f3af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ecd7c63.js",
+    "static/js/2.40d2f3af.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c1476f80.chunk.js"
+  ]
+}
